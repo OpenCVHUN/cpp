@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="remove_duplicates.cpp">
+    <ClCompile Include="gyak04_remove_duplicates.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
