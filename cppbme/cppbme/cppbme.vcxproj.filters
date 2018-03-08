@@ -15,7 +15,7 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="gyak04_remove_duplicates.cpp">
+    <ClCompile Include="gyak05_laccsol.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
